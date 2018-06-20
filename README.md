@@ -1,6 +1,6 @@
 Latest Version 
 --------------
-##### _Jun 14th, 2018_ - [v1.12](https://github.com/devtodev-analytics/air-sdk/releases/latest)
+##### _Jun 20th, 2018_ - [v1.12.1](https://github.com/devtodev-analytics/air-sdk/releases/latest)
 
 Getting Started
 ---------------
